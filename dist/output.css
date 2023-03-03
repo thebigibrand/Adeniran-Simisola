@@ -746,30 +746,6 @@ video {
     padding-right: 2.5rem;
   }
 
-  .\34 00px\:text-\[39px\] {
-    font-size: 39px;
-  }
-
-  .\34 00px\:text-\[42px\] {
-    font-size: 42px;
-  }
-
-  .\34 00px\:text-\[40px\] {
-    font-size: 40px;
-  }
-
-  .\34 00px\:text-\[28px\] {
-    font-size: 28px;
-  }
-
-  .\34 00px\:text-\[30px\] {
-    font-size: 30px;
-  }
-
-  .\34 00px\:text-\[38px\] {
-    font-size: 38px;
-  }
-
   .\34 00px\:text-\[36px\] {
     font-size: 36px;
   }
@@ -876,6 +852,18 @@ video {
 
   .lg\:text-\[24px\] {
     font-size: 24px;
+  }
+
+  .lg\:text-\[23px\] {
+    font-size: 23px;
+  }
+
+  .lg\:text-\[23\.5px\] {
+    font-size: 23.5px;
+  }
+
+  .lg\:text-\[22px\] {
+    font-size: 22px;
   }
 }
 
