@@ -857,6 +857,18 @@ video {
   .lg\:text-\[23\.5px\] {
     font-size: 23.5px;
   }
+
+  .lg\:text-\[23px\] {
+    font-size: 23px;
+  }
+
+  .lg\:text-\[29px\] {
+    font-size: 29px;
+  }
+
+  .lg\:text-\[25px\] {
+    font-size: 25px;
+  }
 }
 
 @media (min-width: 1536px) {
